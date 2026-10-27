@@ -32,9 +32,9 @@ Program to print the text “Hello World”.
 Developed by: Mohamed Abrar M
 Registeration Number : 212225230172
 
-```
+
 ## MainActivity.java
-```
+
 package com.example.test;
 
 import android.os.Bundle;
