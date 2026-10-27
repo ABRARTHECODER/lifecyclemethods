@@ -131,13 +131,13 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/d4e1c061-4885-449c-b968-96d21c3e4e58" />
-<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/bfdafdcb-873b-418f-8aca-8d1011d47e20" />
-<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/0e679558-cf68-4ff4-8862-31051cf6af71" />
-<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/916c3add-1095-4be0-ad81-98f5b1467f62" />
-<img width="1920" height="1080" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/078ce5b9-2f5a-4f14-ad27-6e34cf8d8a94" />
-<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/ec975c18-d924-4118-8817-82877ae7bd5a" />
-<img width="1920" height="1080" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/4461bd20-a4a2-4668-876d-425ea82f2151" />
+<img width="1920" height="934" alt="1" src="https://github.com/user-attachments/assets/c22df1e5-b679-4ff5-b442-caf6285a7c92" />
+<img width="1585" height="993" alt="2" src="https://github.com/user-attachments/assets/49dcce46-f78e-4e76-8782-b176b76332ef" />
+<img width="1688" height="979" alt="3" src="https://github.com/user-attachments/assets/b493fb82-4218-436d-ada5-f0b7ae891bff" />
+<img width="1669" height="894" alt="4" src="https://github.com/user-attachments/assets/69360b15-6603-4bf7-8890-b8d9b5ca09c5" />
+![Uploading 6.png…]()
+
+<img width="1594" height="1000" alt="5" src="https://github.com/user-attachments/assets/02743f70-277f-47ae-a2a7-6b333b308339" />
 
 
 
